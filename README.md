@@ -7,7 +7,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=flaviabenegas&show_icons=true&theme=synthwave "
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme:dark)"
   />
    <img src="https://github-readme-stats.vercel.app/api?username=flaviabenegas&show_icons=true" />
 </picture>
